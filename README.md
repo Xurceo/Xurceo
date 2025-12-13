@@ -16,7 +16,6 @@
   
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Xurceo&repo=PI-222-2-1)
 ![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Xurceo&repo=Places-App)
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Xurceo&repo=OOP-Course-2)
 
 ... and multiple others projects.
 
